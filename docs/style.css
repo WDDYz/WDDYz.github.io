@@ -69,7 +69,7 @@ details p{margin:12px 0 0;color:#505954;line-height:1.8}
 
 @media (min-width: 721px) {
   .intro {
-    grid-template-columns: minmax(0, 1fr) 400px;
+    grid-template-columns: minmax(0, 1fr) 350px;
     gap: 35px;
   }
 
